@@ -36,10 +36,6 @@ function makeInt(n,base) {
   return parseInt('n',base)
 }
 
-console.log (parseInt('1',10))
-
 function preserveDecimal(n) {
   return parseFloat('n')
 }
-
-console.log (parseFloat('1.123'))

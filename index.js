@@ -34,7 +34,7 @@ function decrement(n) {
 
 var n=1.123
 
-function makeInt(n) {
+function makeInt(n,10) {
   return parseInt('n',10)
 }
 

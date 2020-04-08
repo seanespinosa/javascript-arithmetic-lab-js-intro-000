@@ -42,4 +42,4 @@ function preserveDecimal(n) {
   return parseFloat('n')
 }
 
-parseFloat('1.123')
+console.log (parseFloat('1.123'))

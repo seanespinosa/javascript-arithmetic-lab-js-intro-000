@@ -22,8 +22,8 @@ function divide(x,y) {
 
 divide(5.0/2.5)
 
-number=10
+var n=0
 
-function increment(n) {
-  console.log (number += 1)
+function increment() {
+  return n+=1
 }

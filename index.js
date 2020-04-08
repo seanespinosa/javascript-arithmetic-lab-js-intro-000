@@ -32,11 +32,11 @@ function decrement(n) {
   return n-=1
 }
 
-var n=1.123
-
 function makeInt(n,10) {
   return parseInt('n',10)
 }
+
+parseInt('1',10)
 
 function preserveDecimal(n) {
   return parseFloat('n')

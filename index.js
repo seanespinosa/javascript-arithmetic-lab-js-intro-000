@@ -24,7 +24,6 @@ divide(5.0/2.5)
 
 var n=0
 
-function increment() {
-n++
-  return n;
+function increment(n) {
+  return n+=1
 }

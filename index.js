@@ -32,10 +32,10 @@ function decrement(n) {
   return n-=1
 }
 
-function makeInt(n,base) {
-  return parseInt('n',base)
+function makeInt(string,base) {
+  return parseInt('string',base)
 }
 
-function preserveDecimal(n) {
-  return parseFloat('n')
+function preserveDecimal(string) {
+  return parseFloat('string')
 }

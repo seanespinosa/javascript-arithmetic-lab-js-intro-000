@@ -16,7 +16,7 @@ function multiply(x,y) {
 
 multiply(2,3.4)
 
-function divide() {
+function divide(x,y) {
   return x / y
 }
 

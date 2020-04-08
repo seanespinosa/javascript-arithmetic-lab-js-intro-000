@@ -36,6 +36,8 @@ function makeInt(string,base) {
   return parseInt('string',base)
 }
 
+parseInt('2.222',10)
+
 function preserveDecimal(string) {
   return parseFloat('string')
 }

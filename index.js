@@ -41,3 +41,5 @@ parseInt('1',10)
 function preserveDecimal(n) {
   return parseFloat('n')
 }
+
+parseFloat(1.123)

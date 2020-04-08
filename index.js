@@ -33,7 +33,7 @@ function decrement(n) {
 }
 
 function makeInt(n,base) {
-  return parseInt('n',10)
+  return parseInt('n',base)
 }
 
 parseInt('1',10)

@@ -22,7 +22,7 @@ function divide(x,y) {
 
 divide(5.0/2.5)
 
-var n=0
+var n=1
 
 function increment(n) {
   return n+=1

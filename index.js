@@ -25,5 +25,5 @@ divide(5.0/2.5)
 var number=10
 
 function increment(n) {
-  number += 1
+  return number += 1
 }

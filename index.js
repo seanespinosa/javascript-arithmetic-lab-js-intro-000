@@ -32,8 +32,8 @@ function decrement(n) {
   return n-=1
 }
 
-function makeInt(string,base) {
-  return parseInt('string',base)
+function makeInt(n) {
+  return parseInt('n',10)
 }
 
 parseInt('2.222',10)

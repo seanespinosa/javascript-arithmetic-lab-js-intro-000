@@ -32,6 +32,8 @@ function decrement(n) {
   return n-=1
 }
 
+base=10
+
 function makeInt(n,base) {
   return parseInt('n',base)
 }
